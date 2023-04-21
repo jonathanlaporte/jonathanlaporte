@@ -40,5 +40,5 @@ Je suis un bibliothécaire passionné par la programmation, les technologies web
 
 ---
 
-⭐️ Template par [VotreNomUtilisateur](https://github.com/jonathanlaporte
+⭐️ Template par [jonathanlaporte](https://github.com/jonathanlaporte
 
