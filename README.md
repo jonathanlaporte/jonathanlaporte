@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Bonjour, je suis [Votre nom ici] !
+# 👋 Bonjour !
 
 ![GitHub followers](https://img.shields.io/github/followers/[jonathanlaporte]?style=social)
 
