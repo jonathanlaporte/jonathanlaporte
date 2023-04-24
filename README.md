@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ![GitHub followers](https://img.shields.io/github/followers/[jonathanlaporte]?style=social)
 
-Je suis un bibliothécaire passionné par la programmation, les technologies web et les projets open-source. 
+Bibliothécaire passionné par la programmation, les technologies web et les projets open-source. 
 
 ## 🚀 Mes compétences
 
